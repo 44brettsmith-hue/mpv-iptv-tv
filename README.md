@@ -19,3 +19,6 @@ login details. You sign in on each TV with your own provider.
 
 The same link always gives the newest version; installing it again updates the app and keeps
 your login and favourites.
+
+From version 0.1.11 the app can update itself: Settings → App → Check for updates. The first
+time, Android asks you to allow MPV IPTV to install apps.
