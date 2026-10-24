@@ -11,7 +11,7 @@ login details. You sign in on each TV with your own provider.
    - Google TV: Settings → System → About → select **Android TV OS build** 7 times, then
      Settings → Apps → Security & restrictions → Unknown sources → turn on **Downloader**.
    - Fire TV: Settings → My Fire TV → Developer options → Install unknown apps → **Downloader**.
-3. Open Downloader and enter this link, then choose Install:
+3. Open Downloader and enter the code **3294452** (or this link), then choose Install:
 
    `https://github.com/44brettsmith-hue/mpv-iptv-tv/raw/main/mpv-iptv-tv.apk`
 
